@@ -1,0 +1,6 @@
+{
+    "python.unitTest.nosetestArgs": [
+        "tests", "--nocapture", "--logging-filter=nose"
+    ],
+    "python.unitTest.nosetestsEnabled": true
+}
